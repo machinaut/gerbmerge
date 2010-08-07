@@ -3,3 +3,8 @@ Ajray's notes for using GerbMerge:
 under Ubuntu you need the packages:
     python-simpleparse
     python-simpleparse-mxtexttools
+
+Also you have to solve the python dist-packages/site-packages issue.
+   Theres a lot of ways to do this, I just move all of them into dist-
+   and symlink the other to point to it
+
