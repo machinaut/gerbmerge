@@ -1,0 +1,5 @@
+Ajray's notes for using GerbMerge:
+
+under Ubuntu you need the packages:
+    python-simpleparse
+    python-simpleparse-mxtexttools
